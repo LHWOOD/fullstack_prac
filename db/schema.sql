@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS prac_db;
+CREATE DATABASE prac_db;
